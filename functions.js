@@ -7,7 +7,6 @@ function subtractFrom (x) {
 }
 
 function subtractAgain (x) {
-
 	return x - 2;
 
 }
