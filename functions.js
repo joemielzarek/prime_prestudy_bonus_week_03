@@ -7,8 +7,7 @@ function subtractFrom (x) {
 }
 
 function subtractAgain (x) {
-	return x - 2;
-
+	return x - 5;
 }
 
 console.log(addTo(subtractFrom(subtractAgain( 10 ) ) ) ) ;
